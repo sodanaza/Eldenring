@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278910587886",
+    "project_id": "sigma-shop-ba303",
+    "storage_bucket": "sigma-shop-ba303.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278910587886:android:666d2e7975d02b7350f4ff",
+        "android_client_info": {
+          "package_name": "com.example.mobile_gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfUT5BfnZZNzVkL3QFiym5oxN_8wY6OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
