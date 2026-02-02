@@ -34,7 +34,7 @@ class TeamPage extends StatelessWidget {
                     size: 60,
                     color: Color(0xFF2E7D32),
                   ),
-                  SizedBox(height: 8),
+                  SizedBox(height: 😎,
                   Text(
                     'ทีมผู้พัฒนาแอป',
                     style: TextStyle(
@@ -129,7 +129,7 @@ class TeamCard extends StatelessWidget {
                       color: Color(0xFF1B5E20),
                     ),
                   ),
-                  const SizedBox(height: 8),
+                  const SizedBox(height: 😎,
 
                   Row(
                     children: const [
